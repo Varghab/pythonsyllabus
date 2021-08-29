@@ -1,0 +1,23 @@
+table,
+tr,
+td,
+th {
+  border: 1px solid rgb(0, 0, 0);
+  border-spacing: 0;
+}
+
+legend {
+  text-align: center;
+}
+body {
+  background-color: #c2ffd9;
+}
+
+td {
+  padding: 10px;
+}
+
+th {
+  padding: 5px;
+  color: #ff4848;
+}
